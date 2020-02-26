@@ -1,1 +1,1 @@
-# joomla-betterembed-
+# Joomla! BetterEmbed Plugin/Modul
